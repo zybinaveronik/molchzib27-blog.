@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>molchzib27.blog</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>molchzib27.blog</h1>
+    <nav>
+      <a href="#about">О нас</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="about">
+      <h2>О нас</h2>
+      <p>Этот блог — о нежности, взглядах, тишине и чувствах, которые нельзя передать словами. 
+         Здесь живёт история, полная любви, настоящих моментов и молчаливого понимания.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 molchzib27.blog. С любовью.</p>
+  </footer>
+</body>
+</html>
