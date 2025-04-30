@@ -27,3 +27,44 @@
   </footer>
 </body>
 </html>
+body {
+  margin: 0;
+  font-family: 'Georgia', serif;
+  background-color: #fff0f5;
+  color: #333;
+}
+
+header {
+  background-color: #f8c8dc;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  color: #880e4f;
+}
+
+nav a {
+  text-decoration: none;
+  margin: 0 10px;
+  color: #880e4f;
+  font-weight: bold;
+}
+
+main {
+  padding: 40px 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+h2 {
+  color: #c2185b;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #f8c8dc;
+  color: #880e4f;
+}
